@@ -1,5 +1,5 @@
 # product_app
-Nimap Product CRUD task
+## Nimap Product CRUD task
 
  ## Installation & Run
  - Before running the API server, we should update the database config inside the application.properties file.
