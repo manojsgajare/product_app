@@ -5,7 +5,7 @@
  - Before running the API server, we should update the database config inside the application.properties file.
  - Update the port number, username and password as per our local database config.  
     - server.port=8080
-    - spring.datasource.url=jdbc:mysql://localhost:3306/product;
+    - spring.datasource.url=jdbc:mysql://localhost:3306/product
     - spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
     - spring.datasource.username=root
     - spring.datasource.password=root
